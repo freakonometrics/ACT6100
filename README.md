@@ -1,4 +1,4 @@
-# SACT6100 Analyse des données en assurance (Automne 2020)
+# ACT6100 Analyse des données en assurance 
 
 Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 
