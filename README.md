@@ -16,7 +16,9 @@ Démonstrateur :
 
 1. Syllabus <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_1.pdf">pdf</a> <br /> 
 2. Glossaire <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_2.pdf">pdf</a> <br /> 
+
 **Compléments mathématiques**  
+
 1. Vecteurs et distances <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_1.pdf">pdf</a> <br /> 
 2. Algèbre et applications linéaires <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_2.pdf">pdf</a> <br /> 
 3. Vecteurs et valeurs propres <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_3.pdf">pdf</a> <br /> 
@@ -31,7 +33,9 @@ Démonstrateur :
 12. Temps de calcul <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_12.pdf">pdf</a> <br /> 
 13. GLM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_13.pdf">pdf</a> <br /> 
 </dd>
+
 **Modèles non supervisés**
+
 1. ACP (1) <a href="">video</a> <a href="">pdf</a> <br /> 
 2. ACP (2) <a href="">video</a> <a href="">pdf</a> <br />	
 3. ACP (3) <a href="">video</a> <a href="">pdf</a> <br />
@@ -42,12 +46,13 @@ Démonstrateur :
 8. Clusters (1) <a href="">video</a> <a href="">pdf</a> <br />
 9. Clusters (2) <a href="">video</a> <a href="">pdf</a> <br />
 10. Clusters (3) <a href="">video</a> <a href="">pdf</a> <br />
+
 **Modèles supervisés**
+
 1. Risque <a href="">video</a> <a href="">pdf</a> <br />
 2. Validation Croisée <a href="">video</a> <a href="">pdf</a> <br />
 3. Fonction de perte <a href="">video</a> <a href="">pdf</a> <br />
 4. Régularisation <a href="">video</a> <a href="">pdf</a> <br />
 5. Simulation et agrégation <a href="">video</a> <a href="">pdf</a> <br />
-	</dd>	  
-à compléter
+*à compléter*
 
