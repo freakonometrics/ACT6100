@@ -4,7 +4,7 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 
 Pour plus d'information : [https://freakonometrics.hypotheses.org](https://freakonometrics.hypotheses.org/category/courses/act6100)
 
-Plan de cours : [Plan_ACT6100_A2020pdf](docs/PLAN-COURS-ACT6100-A2020.pdf)
+Plan de cours : [Plan_ACT6100_A2020pdf](/docs/STT6100_A2020_Plan_de_Cours.pdf)
 
 Démonstrateur : 
 
