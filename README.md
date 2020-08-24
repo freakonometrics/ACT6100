@@ -6,7 +6,7 @@ Pour plus d'information : [https://freakonometrics.hypotheses.org](https://freak
 
 Plan de cours : [Plan_ACT6100_A2020pdf](/docs/STT6100_A2020_Plan_de_Cours.pdf)
 
-Démonstrateur : 
+Démonstrateur : Francis Proulx 
 
 ```diff
 - (été 2020) mise en ligne de rappels 
