@@ -16,6 +16,7 @@ Démonstrateur : Francis Proulx
 
 1. Syllabus <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_1.pdf">pdf</a> <br /> 
 2. Glossaire <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_2.pdf">pdf</a> <br /> 
+3. Un peu d'histoire <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_3.pdf">pdf</a> <br /> 
 
 **Compléments mathématiques**  
 
