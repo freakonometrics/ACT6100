@@ -14,9 +14,9 @@ Démonstrateur : Francis Proulx
 
 **Seances**
 
-1. Syllabus <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_1.pdf">pdf</a> <br /> 
-2. Glossaire <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_2.pdf">pdf</a> <br /> 
-3. Un peu d'histoire <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_3.pdf">pdf</a> <br /> 
+1. Syllabus <a href="https://www.youtube.com/watch?v=mnk3jYSYUXU&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=2&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_1.pdf">pdf</a> (36:36) <br /> 
+2. Glossaire <a href="https://www.youtube.com/watch?v=QFzzYKsQmMc&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=3&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_2.pdf">pdf</a> (29:38) <br /> 
+3. Un peu d'histoire <a href="https://www.youtube.com/watch?v=Lc7MjWcjk9Q&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=4&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_INTRO_3.pdf">pdf</a> (24:54) <br /> 
 
 **Compléments mathématiques**  
 
