@@ -20,9 +20,9 @@ Démonstrateur : Francis Proulx
 
 **Compléments mathématiques**  
 
-1. Vecteurs et distances <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_1.pdf">pdf</a> <br /> 
-2. Algèbre et applications linéaires <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_2.pdf">pdf</a> <br /> 
-3. Vecteurs et valeurs propres <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_3.pdf">pdf</a> <br /> 
+1. Vecteurs et distances <a href="https://www.youtube.com/watch?v=fh3xzt4V4fs&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=4">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_1.pdf">pdf</a> (29:24) <br /> 
+2. Algèbre et applications linéaires <a href="https://www.youtube.com/watch?v=n5aFdeFZ-w8&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=5">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_2.pdf">pdf</a> (25:11) <br /> 
+3. Vecteurs et valeurs propres <a href="https://www.youtube.com/watch?v=FXTYEqXvscc&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=6">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_3.pdf">pdf</a> (24:27) <br /> 
 4. Décomposition en valeurs singulières <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_4.pdf">pdf</a> <br /> 
 5. Espaces de Hilbert et noyaux <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_5.pdf">pdf</a> <br /> 
 6. Vecteur Gaussien <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_6.pdf">pdf</a> <br /> 
