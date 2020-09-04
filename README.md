@@ -32,7 +32,7 @@ Démonstrateur : Francis Proulx
 10. Optimisation et finance <a href="https://www.youtube.com/watch?v=udqCkSQMFVg&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=10&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_10.pdf">pdf</a> (13:36) <br /> 	
 11. Programmation linéaire <a href="https://www.youtube.com/watch?v=J4JJXBOMfcg&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=11&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_11.pdf">pdf</a> (39:10) <br /> 
 12. Temps de calcul <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_12.pdf">pdf</a> <br /> 
-13. GLM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_13.pdf">pdf</a> <br /> 
+13. Lissage <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_RAP_13.pdf">pdf</a> <br /> 
 </dd>
 
 **Modèles non supervisés**
