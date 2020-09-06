@@ -1,4 +1,4 @@
-# ACT6100 Analyse des données en assurance 
+# ACT6100 Analyse des données en actuariat 
 
 Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 
