@@ -37,8 +37,8 @@ Démonstrateur : Francis Duval
 
 **Modèles non supervisés**
 
-1. ACP (1) ([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)) <a href="">video</a> <a href="">pdf</a> <br /> 
-2. ACP (2) <a href="">video</a> <a href="">pdf</a> <br />	
+1. ACP (1) ([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)) <a href="https://www.youtube.com/watch?v=iw2GJ6R8ev4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=16&t=0s">video</a> <a href="">pdf</a> (48:42) <br /> 
+2. ACP (2) <a href="https://www.youtube.com/watch?v=8eTV7QpF-B4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=17&t=0s">video</a> <a href="">pdf</a> (31:10) <br />	
 3. ACP (3) <a href="">video</a> <a href="">pdf</a> <br />
 4. CA (1) <a href="">video</a> <a href="">pdf</a> <br />
 5. CA (2) <a href="">video</a> <a href="">pdf</a> <br />
