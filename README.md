@@ -43,13 +43,12 @@ Démonstrateur : Francis Duval
 4. ACP (4) <a href="https://www.youtube.com/watch?v=LopPmiHNDpI&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=19">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (39:59) <br />
 5. ACP (5) <a href="https://www.youtube.com/watch?v=ayNXkJvjMY4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=20">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (28:53) <br />
 6. CA (1) <a href="https://www.youtube.com/watch?v=W3SvB75ZyWU&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=20">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> (38:33) <br />
-7. CA (2) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
-8. MCA (1) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
-9. MCA (2) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
-10. Clusters (1) <a href="">video</a> <a href="">pdf</a> <br />
-11. Clusters (2) <a href="">video</a> <a href="">pdf</a> <br />
-12. Clusters (3) <a href="">video</a> <a href="">pdf</a> <br />
-13. Imputations et données manquantes <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/ACT6100_A2020_NonSup_4.pdf">pdf</a> <br />
+7. CA (2) <a href="https://www.youtube.com/watch?v=WanMM7i0Wvw&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=21">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> (46:51) <br />
+8. MCA (1) <a href="https://www.youtube.com/watch?v=wN3SstQsD9M&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=22">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> (28:03) <br />
+9. Clusters (1) <a href="">video</a> <a href="">pdf</a> <br />
+10. Clusters (2) <a href="">video</a> <a href="">pdf</a> <br />
+11. Clusters (3) <a href="">video</a> <a href="">pdf</a> <br />
+12. Imputations et données manquantes <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/ACT6100_A2020_NonSup_4.pdf">pdf</a> (17:47) <br />
 
 **Modèles supervisés**
 
