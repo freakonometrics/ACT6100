@@ -39,16 +39,17 @@ Démonstrateur : Francis Duval
 
 1. ACP (1) ([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)) <a href="https://www.youtube.com/watch?v=iw2GJ6R8ev4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=16&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (48:42) <br /> 
 2. ACP (2) <a href="https://www.youtube.com/watch?v=8eTV7QpF-B4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=17&t=0s">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (31:10) <br />	
-3. ACP (3) <a href="https://www.youtube.com/watch?v=pNQnZhcC5OA&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=18">video</a> <a href="">pdf</a> (47:51) <br />
-4. ACP (4) <a href="https://www.youtube.com/watch?v=LopPmiHNDpI&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=19">video</a> <a href="">pdf</a> (39:59) <br />
-5. ACP (5) <a href="https://www.youtube.com/watch?v=ayNXkJvjMY4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=20">video</a> <a href="">pdf</a> (28:53) <br />
-6. CA (1) <a href="">video</a> <a href="">pdf</a> <br />
-7. CA (2) <a href="">video</a> <a href="">pdf</a> <br />
-8. MCA (1) <a href="">video</a> <a href="">pdf</a> <br />
-9. MCA (2) <a href="">video</a> <a href="">pdf</a> <br />
+3. ACP (3) <a href="https://www.youtube.com/watch?v=pNQnZhcC5OA&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=18">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (47:51) <br />
+4. ACP (4) <a href="https://www.youtube.com/watch?v=LopPmiHNDpI&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=19">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (39:59) <br />
+5. ACP (5) <a href="https://www.youtube.com/watch?v=ayNXkJvjMY4&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=20">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_NS_1_PCA_total.pdf">pdf</a> (28:53) <br />
+6. CA (1) <a href="https://www.youtube.com/watch?v=W3SvB75ZyWU&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=20">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> (38:33) <br />
+7. CA (2) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
+8. MCA (1) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
+9. MCA (2) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_AFC_total.pdf">pdf</a> <br />
 10. Clusters (1) <a href="">video</a> <a href="">pdf</a> <br />
 11. Clusters (2) <a href="">video</a> <a href="">pdf</a> <br />
 12. Clusters (3) <a href="">video</a> <a href="">pdf</a> <br />
+13. Imputations et données manquantes <a href="">video</a> <a href="">pdf</a> <br />
 
 **Modèles supervisés**
 
