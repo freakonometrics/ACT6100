@@ -49,7 +49,7 @@ Démonstrateur : Francis Duval
 10. Clusters (1) <a href="">video</a> <a href="">pdf</a> <br />
 11. Clusters (2) <a href="">video</a> <a href="">pdf</a> <br />
 12. Clusters (3) <a href="">video</a> <a href="">pdf</a> <br />
-13. Imputations et données manquantes <a href="">video</a> <a href="">pdf</a> <br />
+13. Imputations et données manquantes <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/ACT6100_A2020_NonSup_4.pdf">pdf</a> <br />
 
 **Modèles supervisés**
 
