@@ -48,7 +48,7 @@ Démonstrateur : Francis Duval
 9. Clusters (*k*-means) <a href="https://www.youtube.com/watch?v=MjjAJTqYb0c&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=24">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_clusters_total.pdf">pdf</a> (48:20) <br />
 10. Clusters (CAH) <a href="https://www.youtube.com/watch?v=lvm42akVgpo&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=24">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_clusters_total.pdf">pdf</a> (37:38) <br />
 11. NA & Imputations (k-nn) <a href="https://www.youtube.com/watch?v=vG3vk7-Wexw&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=23">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/ACT6100_A2020_NonSup_4.pdf">pdf</a> (17:47) <br />
-12. NA & Imputations (ACP) <a href="">video</a> <a href="">pdf</a> (:) <br />
+12. NA & Imputations (ACP) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/ACT6100_A2020_NonSup_5.pdf">pdf</a> (:) <br />
 
 **Modèles supervisés**
 
