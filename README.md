@@ -55,7 +55,27 @@ Démonstrateur : Francis Duval
 1. Risque <a href="">video</a> <a href="">pdf</a> <br />
 2. Validation Croisée <a href="">video</a> <a href="">pdf</a> <br />
 3. Fonction de perte <a href="">video</a> <a href="">pdf</a> <br />
-4. Régularisation <a href="">video</a> <a href="">pdf</a> <br />
-5. Simulation et agrégation <a href="">video</a> <a href="">pdf</a> <br />
+4. Règle de Bayes et analyse discriminante <a href="">video</a> <a href="">pdf</a> <br />
+5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="">pdf</a> <br />
+6. Régularisation - généralités <a href="">video</a> <a href="">pdf</a> <br />
+7. Régularisation - Ridge <a href="">video</a> <a href="">pdf</a> <br />
+8. Régularisation - Lasso <a href="">video</a> <a href="">pdf</a> <br />
+9. Régularisation - compléments <a href="">video</a> <a href="">pdf</a> <br />
+10. Simulations et bootstrap <a href="">video</a> <a href="">pdf</a> <br />
+11. Arbres de classification <a href="">video</a> <a href="">pdf</a> <br />
+12. Arbres de régression <a href="">video</a> <a href="">pdf</a> <br />
+13. Agrégation parallèle et bagging <a href="">video</a> <a href="">pdf</a> <br />
+14. Forêts aléatoires <a href="">video</a> <a href="">pdf</a> <br />
+15. Agrégation séquentielle et boosting <a href="">video</a> <a href="">pdf</a> <br />
+16. SVM <a href="">video</a> <a href="">pdf</a> <br />
+17. Reseaux de neurones <a href="">video</a> <a href="">pdf</a> <br />
+
+**Manipuler des données**
+
+1. Texte <a href="">video</a> <a href="">pdf</a> <br />
+2. Spatial <a href="">video</a> <a href="">pdf</a> <br />
+3. Images <a href="">video</a> <a href="">pdf</a> <br />
+4. Réseaux <a href="">video</a> <a href="">pdf</a> <br />
+
 *à compléter*
 
