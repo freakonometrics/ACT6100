@@ -52,23 +52,22 @@ Démonstrateur : Francis Duval
 
 **Modèles supervisés**
 
-1. Risque <a href="">video</a> <a href="">pdf</a> <br />
-2. Validation Croisée <a href="">video</a> <a href="">pdf</a> <br />
-3. Fonction de perte <a href="">video</a> <a href="">pdf</a> <br />
-4. Règle de Bayes et analyse discriminante <a href="">video</a> <a href="">pdf</a> <br />
-5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="">pdf</a> <br />
-6. Régularisation - généralités <a href="">video</a> <a href="">pdf</a> <br />
-7. Régularisation - Ridge <a href="">video</a> <a href="">pdf</a> <br />
-8. Régularisation - Lasso <a href="">video</a> <a href="">pdf</a> <br />
-9. Régularisation - compléments <a href="">video</a> <a href="">pdf</a> <br />
-10. Simulations et bootstrap <a href="">video</a> <a href="">pdf</a> <br />
+1. Risque <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_1.pdf">pdf</a> <br />
+2. Validation Croisée <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_2.pdf">video</a> <a href="">pdf</a> <br />
+3. Fonction de perte <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_3.pdf">pdf</a> <br />
+4. Règle de Bayes et analyse discriminante <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_4.pdf">pdf</a> <br />
+5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_5.pdf">pdf</a> <br />
+6. Régularisation - Ridge <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
+7. Régularisation - Lasso <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
+8. Régularisation - GLM (Ridge et Lasso) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_7.pdf">pdf</a> <br />
+8. Régularisation - SVM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_8.pdf">pdf</a> <br />
+10. Simulations et bootstrap <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_9.pdf">pdf</a> <br />
 11. Arbres de classification <a href="">video</a> <a href="">pdf</a> <br />
 12. Arbres de régression <a href="">video</a> <a href="">pdf</a> <br />
 13. Agrégation parallèle et bagging <a href="">video</a> <a href="">pdf</a> <br />
 14. Forêts aléatoires <a href="">video</a> <a href="">pdf</a> <br />
 15. Agrégation séquentielle et boosting <a href="">video</a> <a href="">pdf</a> <br />
-16. SVM <a href="">video</a> <a href="">pdf</a> <br />
-17. Reseaux de neurones <a href="">video</a> <a href="">pdf</a> <br />
+16. Reseaux de neurones <a href="">video</a> <a href="">pdf</a> <br />
 
 **Manipuler des données**
 
