@@ -53,7 +53,7 @@ Démonstrateur : Francis Duval
 **Modèles supervisés**
 
 1. Risque <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_1.pdf">pdf</a> <br />
-2. Validation Croisée <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_2.pdf">video</a> <a href="">pdf</a> <br />
+2. Validation Croisée <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_2.pdf">pdf</a> <br />
 3. Fonction de perte <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_3.pdf">pdf</a> <br />
 4. Règle de Bayes et analyse discriminante <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_4.pdf">pdf</a> <br />
 5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_5.pdf">pdf</a> <br />
