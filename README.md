@@ -62,8 +62,8 @@ Démonstrateur : Francis Duval
 8. Régularisation - GLM (Ridge et Lasso) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_7.pdf">pdf</a> <br />
 8. Régularisation - SVM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_8.pdf">pdf</a> <br />
 10. Simulations et bootstrap <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_9.pdf">pdf</a> <br />
-11. Arbres de classification <a href="">video</a> <a href="">pdf</a> <br />
-12. Arbres de régression <a href="">video</a> <a href="">pdf</a> <br />
+11. Arbres de classification <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_10.pdf">pdf</a> <br />
+12. Arbres de régression <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_10.pdf">pdf</a> <br />
 13. Agrégation parallèle et bagging <a href="">video</a> <a href="">pdf</a> <br />
 14. Forêts aléatoires <a href="">video</a> <a href="">pdf</a> <br />
 15. Agrégation séquentielle et boosting <a href="">video</a> <a href="">pdf</a> <br />
