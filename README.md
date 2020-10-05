@@ -52,10 +52,10 @@ Démonstrateur : Francis Duval
 
 **Modèles supervisés**
 
-1. Risque <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_1.pdf">pdf</a> <br />
-2. Validation Croisée <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_2.pdf">pdf</a> <br />
-3. Fonction de perte <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_3.pdf">pdf</a> <br />
-4. Règle de Bayes et analyse discriminante <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_4.pdf">pdf</a> <br />
+1. Risque <a href="https://www.youtube.com/watch?v=xVj__fbqMEM&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=27">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_1.pdf">pdf</a> (45:06) <br />
+2. Validation Croisée <a href="https://www.youtube.com/watch?v=X0WFJraqv7w&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=28">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_2.pdf">pdf</a> (32:00) <br />
+3. Fonction de perte <a href="https://www.youtube.com/watch?v=Xt_YiM9JaoQ&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=29">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_3.pdf">pdf</a> (20:04) <br />
+4. Règle de Bayes et analyse discriminante <a href="https://www.youtube.com/watch?v=qMnTrnT_Kpk&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=30">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_4.pdf">pdf</a> (37:23) <br />
 5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_5.pdf">pdf</a> <br />
 6. Régularisation - Ridge <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
 7. Régularisation - Lasso <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
