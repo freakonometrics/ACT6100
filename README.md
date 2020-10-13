@@ -57,7 +57,8 @@ Démonstrateur : Francis Duval
 3. Fonction de perte <a href="https://www.youtube.com/watch?v=Xt_YiM9JaoQ&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=29">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_3.pdf">pdf</a> (20:04) <br />
 4. Règle de Bayes et analyse discriminante <a href="https://www.youtube.com/watch?v=qMnTrnT_Kpk&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=30">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_4.pdf">pdf</a> (37:23) <br />
 5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_5.pdf">pdf</a> <br />
-6. Régularisation - Ridge <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
+6. Régularisation et pénalisation <a href="https://www.youtube.com/watch?v=DN6p2ruEJes&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=31">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> (27:17) <br />
+6. Régularisation - Ridge <a href="https://www.youtube.com/watch?v=DN6p2ruEJes&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=31">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
 7. Régularisation - Lasso <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
 8. Régularisation - GLM (Ridge et Lasso) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_7.pdf">pdf</a> <br />
 8. Régularisation - SVM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_8.pdf">pdf</a> <br />
