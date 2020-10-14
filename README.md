@@ -59,7 +59,8 @@ Démonstrateur : Francis Duval
 5. Dimension de Vapnik-Chervonenkis <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_5.pdf">pdf</a> <br />
 6. Régularisation et pénalisation <a href="https://www.youtube.com/watch?v=DN6p2ruEJes&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=31">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> (27:17) <br />
 6. Régularisation - Ridge <a href="https://www.youtube.com/watch?v=0PZtJSw47-Q&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=32">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> (36:46) <br />
-7. Régularisation - Lasso <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
+7. Régularisation - Lasso (1) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
+7. Régularisation - Lasso (2) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_6.pdf">pdf</a> <br />
 8. Régularisation - GLM (Ridge et Lasso) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_7.pdf">pdf</a> <br />
 8. Régularisation - SVM <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_8.pdf">pdf</a> <br />
 10. Simulations et bootstrap <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_9.pdf">pdf</a> <br />
