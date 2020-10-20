@@ -75,9 +75,9 @@ Démonstrateur : Francis Duval
 **Manipuler des données**
 
 1. Texte <a href="">video</a> <a href="">pdf</a> <br />
-2. Spatial <a href="">video</a> <a href="">pdf</a> <br />
-3. Images <a href="">video</a> <a href="">pdf</a> <br />
-4. Réseaux <a href="">video</a> <a href="">pdf</a> <br />
+2. Images <a href="">video</a> <a href="">pdf</a> <br />
+3. Réseaux <a href="">video</a> <a href="">pdf</a> <br />
+4. Spatial <a href="">video</a> <a href="">pdf</a> <br />
 
 *à compléter*
 
