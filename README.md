@@ -9,7 +9,7 @@ Plan de cours : [Plan_ACT6100_A2020pdf](/docs/STT6100_A2020_Plan_de_Cours.pdf)
 Démonstrateur : Francis Duval 
 
 ```diff
-- (jeudi 24) fin des capsules sur les compléments de mathématiques
+- les deux devoirs sont en ligne
 ```
 
 **Seances**
