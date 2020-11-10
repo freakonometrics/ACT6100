@@ -69,7 +69,8 @@ Démonstrateur : Francis Duval
 12. Arbres (2) <a href="https://www.youtube.com/watch?v=Db-l83hIjQA&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=40">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_10.pdf">pdf</a> (39:35) <br />
 13. Arbres (3) <a href="https://www.youtube.com/watch?v=0Pmpz_pit3c&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=41">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_10.pdf">pdf</a> (37:30) <br />
 12. Interprétabilité <a href="https://www.youtube.com/watch?v=ZqI5W6ETRnU&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=42">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_11.pdf">pdf</a> (36:14) <br />
-15. Agrégation parallèle et bagging <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_12.pdf">pdf</a> <br />
+15. Méthode d'ensembles <a href="https://www.youtube.com/watch?v=5Q0aImFru4U&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=43">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_12.pdf">pdf</a> <(41:17) br />
+15. Stacking bagging <a href="https://www.youtube.com/watch?v=VOaLT27VpJc&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=44">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_12.pdf">pdf</a> (40:15) <br />
 14. Forêts aléatoires <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_12.pdf">pdf</a> <br />
 15. Agrégation séquentielle et boosting <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_13.pdf">pdf</a> <br />
 16. Reseaux de neurones <a href="">video</a> <a href="">pdf</a> <br />
