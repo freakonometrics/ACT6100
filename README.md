@@ -74,7 +74,7 @@ Démonstrateur : Francis Duval
 14. Forêts aléatoires <a href="https://www.youtube.com/watch?v=rq9k26hJYwc&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=45">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_12.pdf">pdf</a> (31:55) <br />
 15. Agrégation séquentielle et boosting (1) <a href="https://www.youtube.com/watch?v=mHR2UKuE1hw&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=46">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_13.pdf">pdf</a> (17:46) <br />
 15. Agrégation séquentielle et boosting (2) <a href="https://www.youtube.com/watch?v=s8WJEflWWYo&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=47">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_13.pdf">pdf</a> (46:06) <br />
-16. Réseaux de neurones (1) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_13.pdf">pdf</a> <br />
+16. Réseaux de neurones (1) <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_Sup_14.pdf">pdf</a> <br />
 
 **Manipuler des données**
 
