@@ -81,10 +81,10 @@ Démonstrateur : Francis Duval
 
 **Manipuler des données**
 
-1. Texte <a href="">video</a> <a href="">pdf</a> <br />
-2. Images <a href="">video</a> <a href="">pdf</a> <br />
-3. Réseaux <a href="">video</a> <a href="">pdf</a> <br />
-4. Spatial <a href="">video</a> <a href="">pdf</a> <br />
+1. Réseaux <a href="">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_data_1.pdf">pdf</a> <br />
+2. Spatial <a href="">video</a> <a href="">pdf</a> <br />
+3. Texte <a href="">video</a> <a href="">pdf</a> <br />
+4. Images <a href="">video</a> <a href="">pdf</a> <br />
 
 *à compléter*
 
