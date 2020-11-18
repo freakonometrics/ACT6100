@@ -83,7 +83,7 @@ Démonstrateur : Francis Duval
 
 1. Réseaux (1) <a href="https://www.youtube.com/watch?v=QV96EOdbCHM&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=52">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_data_1.pdf">pdf</a> (54:02)<br />
 2. Réseaux (2) <a href="https://www.youtube.com/watch?v=lgc6lWfKgRw&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=53">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_data_1.pdf">pdf</a> (27:23) <br />
-3. Spatial <a href="">video</a> <a href="">pdf</a> <br />
+3. Spatial <a href="https://www.youtube.com/watch?v=XgrJ4-K6YoQ&list=PLCrFTE7Gu_3Q7HOyQ7iMgXUY6EFalfng2&index=54">video</a> <a href="https://github.com/freakonometrics/ACT6100/blob/master/slides/ACT6100_A2020_data_2.pdf">pdf</a> (50:28) <br />
 4. Texte <a href="">video</a> <a href="">pdf</a> <br />
 5. Images <a href="">video</a> <a href="">pdf</a> <br />
 
